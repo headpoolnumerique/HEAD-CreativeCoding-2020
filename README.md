@@ -9,3 +9,19 @@ Utiliser des images
 
 ## Exo2_b : 
 ![alt text](/gif/exo2_b.gif "Exo2_b")
+
+# Exo 3
+Utiliser de la typographie
+
+## Exo3_a : 
+![alt text](/gif/exo3_a.gif "Exo3_a")
+
+## Exo3_b : 
+![alt text](/gif/exo3_b.gif "Exo3_b")
+
+## Exo3_c : 
+![alt text](/gif/exo3_c.gif "Exo3_c")
+
+Introduction aux tableaux
+## Exo4_a : 
+![alt text](/gif/exo4_a.gif "Exo4_a")
