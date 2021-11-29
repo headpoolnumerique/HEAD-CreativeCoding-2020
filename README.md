@@ -31,3 +31,14 @@ Utiliser de la typographie
 Introduction aux tableaux
 ## Exo4_a : 
 ![alt text](/gif/opti/exo4_a.gif "Exo4_a")
+
+
+----
+# Exo 5
+
+Introduction aux boucles et aux functions personnelles
+## Exo5_a : 
+![alt text](/gif/opti/exo5_a.gif "Exo5_a")
+
+## Exo5_b : 
+![alt text](/gif/opti/exo5_b.gif "Exo5_b")
