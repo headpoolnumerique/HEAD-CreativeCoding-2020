@@ -1,5 +1,4 @@
 import processing.pdf.*;
-
 PGraphicsPDF pdf;
 
 PImage currentImage;
@@ -22,6 +21,7 @@ void setup() {
 
 
 void draw() {
+  background(200);
   //image(currentImage, 0, 0);
   //copy(src,sx, sy, sw, sh, dx, dy, dw, dh)
   for (int i=0; i<100; i++) {
