@@ -51,3 +51,7 @@ Générer un livre aléatoire
 Générer un livre aléatoire avec une vidéo
 ![alt text](/gif/opti/exo5_d.gif "Exo5_d")
 
+## exo_groupeA_1 : 
+Générer un livre aléatoire un dossier d'image
+![alt text](/gif/opti/exo_groupeA_1.gif "exo_groupeA_1")
+
