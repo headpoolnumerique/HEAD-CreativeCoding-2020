@@ -27,7 +27,7 @@ void draw() {
   for (int i=0; i<100; i++) {
     buf.beginDraw();
     buf.copy(currentImage, int(random(800)), int(random(800)), 100, 100, 0, 0, 100, 100);
-    buf.rect(20,20,60,60);
+    buf.line(0,0,60,60);
     buf.endDraw();
     image(buf, int(random(800)), int(random(800)));
   }
