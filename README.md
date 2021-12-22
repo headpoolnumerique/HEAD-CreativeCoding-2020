@@ -55,3 +55,6 @@ Générer un livre aléatoire avec une vidéo
 Générer un livre aléatoire avec un dossier d'image
 ![alt text](/gif/opti/exo_groupeA_1.gif "exo_groupeA_1")
 
+## Matrix : 
+Exemple de circonstance  
+![alt text](/gif/opti/Matrix.gif "Matrix")
