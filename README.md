@@ -42,3 +42,11 @@ Introduction aux boucles et aux functions personnelles
 
 ## Exo5_b : 
 ![alt text](/gif/opti/exo5_b.gif "Exo5_b")
+
+## Exo 5_c : 
+Générer un livre aléatoire
+![alt text](/gif/opti/exo5_c.gif "Exo5_c")
+
+## Exo 5_d : 
+Générer un livre aléatoire avec une vidéo
+![alt text](/gif/opti/exo5_d.gif "Exo5_d")
